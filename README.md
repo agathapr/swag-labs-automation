@@ -1,5 +1,4 @@
-## Projeto para o desafio técnico
-Desenvolvido por Agatha Pereira Pires
+## Swag Labs Automation
 
 ### Instruções para utilizar o projeto:
 1. Baixe o projeto
